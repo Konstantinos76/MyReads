@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bc6b4812-3b21-4a80-a32a-41cf1956a764/resourceGroups/Web-Apps/providers/Microsoft.Web/sites/react-my-reads",
+    "appService.deploySubpath": "build"
+}
